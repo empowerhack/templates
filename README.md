@@ -42,6 +42,7 @@ Repo for templates
 * Canva https://canva.com - Quickly create aesthetic design assets in browser, lots of free stock
 * Pixlr https://pixlr.com/ - like Photoshop but free and in your browser
 * Gravit https://gravit.io/ - like Adobe Fireworks but free and in browser
+* Adobe Color https://color.adobe.com/ - Quickly create harmonious color schemes
 
 #### Dev
 
@@ -57,7 +58,8 @@ Repo for templates
 
 ##### Frontend
 
-*TODO frontenders please!*
+* Caniuse http://caniuse.com/ - check browser support for JS/HTML/CSS features
+* http://codepen.io/ - sandbox for trying out JS/HTML/CSS. Can be saved as gists for use in your projects
 
 ##### NodeJS
 
