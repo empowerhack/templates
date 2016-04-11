@@ -60,6 +60,7 @@ Repo for templates
 
 * Caniuse http://caniuse.com/ - check browser support for JS/HTML/CSS features
 * http://codepen.io/ - sandbox for trying out JS/HTML/CSS. Can be saved as gists for use in your projects
+* Bootstrap http://getbootstrap.com/ - simple to use standardised CSS styles that'll make your app look slick
 
 ##### NodeJS
 
