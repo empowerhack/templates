@@ -55,6 +55,7 @@ Repo for templates
 * TravisCI https://travis-ci.org/ - test your stuff
 * Heroku https://heroku.com/ - deploy web apps
 * DigitalOcean http://digitalocean.com - cheap & fast hosting
+* HyperDev https://hyperdev.com/about/ - (in beta) new dev playground by the makers of Trello, allowing you to code and collaborate on full stack JS apps without all the fuss!
 
 ##### Frontend
 
