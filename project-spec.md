@@ -14,7 +14,7 @@ Description/Goal of Project
 
 * List high level goals
 
-### Product owner
+### Product owner(s)
 
 * List decision makers on the project
 
@@ -32,7 +32,7 @@ Description/Goal of Project
 
 * List technologies
 
-### Teminology
+### Terminology 
 
 * List important/project specific terms & meaning
 
