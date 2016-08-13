@@ -128,6 +128,13 @@ Repo for templates
 
 * Don't let yourself block you. Resolve to the fact a lot of things will feel new - you have the internet and supportive people around you to help you learn all the things. Be prepared to surprise yourself with how much you'll learn in a weekend
 
+
 ##### Your sanity / health
 
 * This still comes first. Get some sleep! Go for a quick walk! Joke around with your team members and post funny GIFs on slack. Enjoy the experience, don't let it stress you out.
+
+
+### Guides
+
+* A get started guide for anyone new to GitHub: https://drive.google.com/drive/u/0/folders/0B5wwEaKCKt1NUW5uakJqVWN0a0U
+
